@@ -1,0 +1,21 @@
+Jmeno;Rok;Hodnoceni;Popis;Poznamka;Videl?;DatumPridani
+It's a Wonderful Life;1946;8.6;George Bailey has spent his entire life giving of himself to the peopl; ;0;2017/06/26 10:50:07
+12 Angry Men;1957;8.9;The defense and the prosecution have rested and the jury is filing int; ;0;2017/06/26 10:49:56
+The Good, the Bad and the Ugly;1966;8.9;Blondie (The Good) is a professional gunslinger who is out trying to e; ;0;2017/06/26 10:50:00
+The Godfather;1972;9.2;When the aging head of a famous crime family decides to transfer his p; ;0;2017/06/26 10:49:51
+The Godfather: Part II;1974;9.0;The continuing saga of the Corleone crime family tells the story of a ; ;0;2017/06/26 10:49:52
+Alien;1979;8.5;A commercial crew aboard the deep space towing vessel, Nostromo is on ; ;0;2017/06/26 10:50:22
+The Shining;1980;8.4;Signing a contract, Jack Torrance, a normal writer and former teacher ; ;0;2017/06/26 10:50:02
+Goodfellas;1990;8.7;Henry Hill might be a small time gangster, who may have taken part in ; ;0;2017/06/26 10:50:14
+The Silence of the Lambs;1991;8.6;FBI trainee Clarice Starling works hard to advance her career, includi; ;0;2017/06/26 10:50:05
+Terminator 2: Judgment Day;1991;8.5;Over 10 years have passed since the first cyborg called The Terminator; ;0;2017/06/26 10:50:21
+Schindler's List;1993;8.9;Oskar Schindler is a vainglorious and greedy German businessman who be; ;0;2017/06/26 10:49:57
+The Shawshank Redemption;1994;9.3;Chronicles the experiences of a formerly successful banker as a prison; ;0;2017/06/26 10:49:50
+The Matrix;1999;8.7;Thomas A. Anderson is a man living two lives. By day he is an average ; ;0;2017/06/26 10:50:11
+The Green Mile;1999;8.5;Death Row guards at a penitentiary, in the 1930's, have a moral dilemm; ;0;2017/06/26 10:50:17
+City of God;2002;8.7;Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks; ;0;2017/06/26 10:50:10
+The Dark Knight;2008;9.0;Set within a year after the events of Batman Begins, Batman, Lieutenan; ;0;2017/06/26 10:49:54
+Inception;2010;8.8;Dom Cobb is a skilled thief, the absolute best in the dangerous art of; ;0;2017/06/26 10:50:04
+The Intouchables;2011;8.6;In Paris, the aristocratic and intellectual Philippe is a quadriplegic; ;0;2017/06/26 10:50:19
+Django Unchained;2012;8.4;A German dentist buys the freedom of a slave and trains him with the i; ;0;2017/06/26 10:50:09
+Interstellar;2014;8.6;Earth's future has been riddled by disasters, famines, and droughts. T; ;0;2017/06/26 10:50:15
